@@ -103,7 +103,7 @@ print('Hello World!')
 ### <p align="center">🎬 Credits 🎬</p>
 
 <br><br>
-* [Svenskithesource](https://github.com/lockness-Ko) | Showed us how to rename variables 
+* [lockness-Ko](https://github.com/lockness-Ko) | Showed us how to rename variables 
 <br><br>
   
 -----
