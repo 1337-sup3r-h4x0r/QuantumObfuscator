@@ -16,7 +16,7 @@ def hexify_string(string):
 
 
 def gen_file(content, filename):
-    content += 'from builtins import *\n'
+    content += "__obfuscator__ = 'Quantum'\n__authors__ = ('1337-sup3r-h4x0r')\n__github__ = 'https://github.com/1337-sup3r-h4x0r/QuantumObfuscator'\n__license__ = 'EPL-2.0'\n\nfrom builtins import *\n"
     content += 'Alpha = __import__\n'
     content += f'__{(THE_WORD+"_") *30}{THE_WORD} = b""\n'
     thecode = None
