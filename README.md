@@ -1,3 +1,11 @@
+# UPDATE: 12/04/2023
+
+Ha ha! It's so good even ant1-sk1d can't finish his deobfuscator 🤣🤣🤣!!
+
+Check it out here lolz
+
+[https://github.com/ant1-sk1d/QuantumDeobfuscator](https://github.com/ant1-sk1d/QuantumDeobfuscator)
+
 -----
 
 <p align="center">
